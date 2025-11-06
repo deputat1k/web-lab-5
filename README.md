@@ -1,4 +1,6 @@
-This project demonstrates the implementation of Object-Oriented Programming (OOP) principles in JavaScript.  
+## 📘 Description
+This project demonstrates the implementation of Object-Oriented Programming (OOP) principles in JavaScript.
+
 It includes several classes such as Book, User, Librarian, Reader, Loan, and Library, which together simulate a simple library management system.
 
 The project shows practical use of:
@@ -11,8 +13,11 @@ The project shows practical use of:
 ## 🏗 Project Structure
 web-lab5/
 ├── .gitignore
+
 ├── index.html
+
 ├── script.js
+
 └── package.json
 
 ## 🚀 How to Run
